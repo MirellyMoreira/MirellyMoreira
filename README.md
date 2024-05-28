@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oi Divas e Divos
 
-<!--
-**MirrellyMoreira/MirrellyMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Mirelly,mas podem me chamar de mi
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gosto de desenhar,dançar, e de assistir séries 🎥🖌️
+
+- Vou utilizar esse espaço pra mostrar os meus projetos 📌
+  
+## Você pode entrar em contato comigo 📫
+
+00001093007199sp@al.educacao.sp.gov.br
