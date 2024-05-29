@@ -2,7 +2,7 @@
 
 - Meu nome é Mirelly,mas podem me chamar de mi
 
-- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br) diferentes tipos de programação como JavaScript e Scratch.
 
 - Gosto de desenhar,dançar, e de assistir séries 🎥🖌️
 
